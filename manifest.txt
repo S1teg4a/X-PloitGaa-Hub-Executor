@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/S1teg4a/X-PloitGaa-Hub/main/Xeno.dll
+https://raw.githubusercontent.com/S1teg4a/X-PloitGaa-Hub/main/XploitGaaHub.dll
+https://raw.githubusercontent.com/S1teg4a/X-PloitGaa-Hub/main/FastColoredTextBox.dll
+https://raw.githubusercontent.com/S1teg4a/X-PloitGaa-Hub/main/XPloitGaa.dll
+https://raw.githubusercontent.com/S1teg4a/X-PloitGaa-Hub/main/libcrypto-3-x64.dll
+https://raw.githubusercontent.com/S1teg4a/X-PloitGaa-Hub/main/libssl-3-x64.dll
+https://raw.githubusercontent.com/S1teg4a/X-PloitGaa-Hub/main/xxhash.dll
+https://raw.githubusercontent.com/S1teg4a/X-PloitGaa-Hub/main/zstd.dll
